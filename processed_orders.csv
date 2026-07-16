@@ -1,0 +1,501 @@
+order_id,customer_name,restaurant_id,order_date,quantity_of_items,order_amount,payment_mode,delivery_time_taken_mins,customer_rating_food,customer_rating_delivery,restaurant_name,cuisine,zone,category,order_month,day_of_week,is_weekend_order,delivery_speed,average_rating
+OD475,Revandh,16,2022-01-01 11:10:00,6,1171,Debit Card,32,3,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,3.0
+OD182,Dev,16,2022-01-01 11:10:00,5,179,Credit Card,13,5,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Fast,4.0
+OD123,Sweetie,18,2022-01-01 11:10:00,6,539,Debit Card,43,2,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,2.5
+OD416,Sabeena,17,2022-01-01 11:10:00,3,758,Debit Card,23,2,5,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD271,Srini,8,2022-01-01 11:10:00,7,570,Cash On Delivery,19,2,1,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Fast,1.5
+OD21,Charlie,3,2022-01-01 11:10:00,6,686,Cash On Delivery,35,3,3,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD63,Selva,20,2022-01-01 11:10:00,1,91,Credit Card,24,3,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,2.0
+OD348,Ram,6,2022-01-01 11:10:00,5,446,Cash On Delivery,49,5,2,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,3.5
+OD68,Gopal,6,2022-01-01 11:10:00,5,345,Cash On Delivery,22,4,5,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,4.5
+OD201,Suhaib,13,2022-01-01 11:10:00,1,19,Cash On Delivery,48,3,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,2.0
+OD488,Sabeena,14,2022-01-01 11:10:00,4,709,Cash On Delivery,25,2,2,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,2.0
+OD147,Srini,20,2022-01-01 11:10:00,2,61,Debit Card,38,5,3,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD411,Revandh,4,2022-01-01 11:10:00,5,620,Debit Card,26,1,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.0
+OD322,David,1,2022-01-01 11:10:00,4,400,Debit Card,26,5,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,4.5
+OD454,Gopal,15,2022-01-01 11:10:00,7,975,Credit Card,37,4,5,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.5
+OD107,Suhaib,6,2022-01-01 11:10:00,1,124,Cash On Delivery,45,5,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,4.0
+OD367,Vinny,6,2022-01-01 11:10:00,4,787,Debit Card,44,1,1,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,1.0
+OD100,Srini,6,2022-01-01 11:10:00,7,936,Credit Card,25,2,1,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,1.5
+OD5,Vinny,4,2022-01-01 11:10:00,4,170,Debit Card,18,4,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.5
+OD78,Vinny,6,2022-01-01 11:15:00,5,908,Debit Card,15,3,2,Willies,French,Zone D,Pro,January,Saturday,Yes,Fast,2.5
+OD129,Suhaib,9,2022-01-01 11:15:00,3,432,Debit Card,21,3,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD279,Srini,18,2022-01-01 11:15:00,5,707,Credit Card,31,4,5,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,4.5
+OD193,Meera,9,2022-01-01 11:15:00,4,364,Cash On Delivery,24,3,3,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD268,Sabeena,19,2022-01-01 11:15:00,6,964,Cash On Delivery,30,3,4,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,3.5
+OD236,Chinny,2,2022-01-01 11:15:00,7,690,Cash On Delivery,16,4,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Fast,3.0
+OD246,Rifa,15,2022-01-01 11:15:00,5,668,Cash On Delivery,25,4,3,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD36,Selva,17,2022-01-01 11:15:00,7,635,Cash On Delivery,14,3,5,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Fast,4.0
+OD82,Charlie,18,2022-01-01 11:15:00,5,882,Cash On Delivery,24,3,1,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,2.0
+OD72,Srini,13,2022-01-01 11:15:00,4,459,Credit Card,43,4,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD248,Sabeena,17,2022-01-01 11:15:00,5,706,Credit Card,35,3,1,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,2.0
+OD285,Dev,13,2022-01-01 11:15:00,5,538,Debit Card,25,4,3,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD370,Vinny,11,2022-01-01 11:15:00,7,801,Credit Card,19,2,2,The Taste,French,Zone B,Pro,January,Saturday,Yes,Fast,2.0
+OD320,Suhaib,13,2022-01-01 11:15:00,5,991,Debit Card,45,1,4,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD145,Charlie,6,2022-01-01 11:15:00,4,287,Debit Card,36,4,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD415,Meera,4,2022-01-01 11:15:00,4,420,Credit Card,20,2,5,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.5
+OD490,Chinny,4,2022-01-01 11:15:00,5,596,Credit Card,34,3,4,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD423,Sweetie,20,2022-01-01 11:15:00,3,749,Credit Card,15,2,4,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Fast,3.0
+OD70,Revandh,9,2022-01-01 11:17:00,7,527,Debit Card,44,5,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,4.5
+OD114,Rifa,11,2022-01-01 11:17:00,7,884,Debit Card,13,4,2,The Taste,French,Zone B,Pro,January,Saturday,Yes,Fast,3.0
+OD351,Ram,5,2022-01-01 11:17:00,4,778,Debit Card,47,3,4,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Slow,3.5
+OD381,Revandh,3,2022-01-01 11:17:00,3,522,Cash On Delivery,43,5,5,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,5.0
+OD12,Farhan,19,2022-01-01 11:17:00,7,916,Debit Card,21,2,1,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,1.5
+OD363,Swamy,3,2022-01-01 11:17:00,4,600,Credit Card,15,5,4,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.5
+OD150,Suhaib,6,2022-01-01 11:17:00,5,712,Cash On Delivery,28,3,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD301,Veronica,2,2022-01-01 11:17:00,3,511,Debit Card,17,5,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Fast,3.5
+OD89,Gopal,16,2022-01-01 11:17:00,7,501,Credit Card,15,2,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Fast,2.5
+OD284,Shifa,16,2022-01-01 11:17:00,5,377,Cash On Delivery,24,3,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,2.5
+OD495,Dev,13,2022-01-01 11:17:00,7,875,Credit Card,46,2,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,1.5
+OD400,Shifa,20,2022-01-01 11:17:00,3,585,Debit Card,20,2,5,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Fast,3.5
+OD342,Sweetie,13,2022-01-01 11:17:00,5,734,Cash On Delivery,16,4,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,2.5
+OD126,Vinny,10,2022-01-01 11:17:00,3,294,Debit Card,32,2,1,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,1.5
+OD451,Sweetie,7,2022-01-01 11:17:00,6,857,Credit Card,42,4,1,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD437,David,15,2022-01-01 11:19:00,5,1169,Debit Card,43,3,5,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,4.0
+OD220,Selva,6,2022-01-01 11:19:00,6,885,Debit Card,24,2,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD443,Ram,7,2022-01-01 11:19:00,5,1165,Credit Card,46,5,1,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD309,Revandh,18,2022-01-01 11:19:00,3,488,Debit Card,49,2,1,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,1.5
+OD19,Srini,20,2022-01-01 11:19:00,6,692,Cash On Delivery,24,2,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,1.5
+OD413,Revandh,19,2022-01-01 11:19:00,3,524,Credit Card,43,5,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,3.5
+OD383,Fastin,5,2022-01-01 11:19:00,4,456,Debit Card,33,2,3,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.5
+OD350,Meera,18,2022-01-01 11:19:00,6,833,Cash On Delivery,36,3,4,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,3.5
+OD394,Revandh,12,2022-01-01 11:19:00,5,1047,Credit Card,36,5,3,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD262,Sabeena,10,2022-01-01 11:19:00,7,940,Debit Card,31,2,1,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,1.5
+OD159,Swamy,3,2022-01-01 11:19:00,5,616,Debit Card,41,2,3,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD265,Shifa,15,2022-01-01 11:19:00,5,682,Cash On Delivery,30,3,3,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD277,Suhaib,18,2022-01-01 11:19:00,6,649,Debit Card,35,2,4,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,3.0
+OD340,Sabeena,6,2022-01-01 11:19:00,6,1068,Cash On Delivery,13,3,5,Willies,French,Zone D,Pro,January,Saturday,Yes,Fast,4.0
+OD264,Farhan,12,2022-01-01 11:19:00,4,278,Credit Card,42,5,1,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,3.0
+OD347,Charlie,3,2022-01-01 11:19:00,4,703,Debit Card,12,2,2,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,2.0
+OD170,Fastin,16,2022-01-01 11:19:00,6,789,Credit Card,26,5,5,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,5.0
+OD137,Charlie,14,2022-01-01 11:19:00,5,679,Debit Card,11,3,1,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Fast,2.0
+OD58,David,1,2022-01-01 11:19:00,6,953,Debit Card,24,3,3,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD59,Meera,13,2022-01-01 11:19:00,5,645,Cash On Delivery,19,3,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,2.0
+OD60,Meera,13,2022-01-01 11:19:00,7,979,Credit Card,44,2,3,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD280,Gopal,11,2022-01-01 12:00:00,5,500,Cash On Delivery,36,3,2,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,2.5
+OD189,Rifa,13,2022-01-01 12:00:00,5,512,Credit Card,35,3,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,2.0
+OD43,Charlie,8,2022-01-01 12:00:00,3,449,Debit Card,44,3,2,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Slow,2.5
+OD214,Meera,12,2022-01-01 12:00:00,6,736,Cash On Delivery,19,2,2,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Fast,2.0
+OD276,Sweetie,16,2022-01-01 12:00:00,2,76,Cash On Delivery,31,5,5,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,5.0
+OD227,David,1,2022-01-01 12:00:00,7,745,Credit Card,39,3,5,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,4.0
+OD30,Swamy,2,2022-01-01 12:00:00,5,528,Debit Card,33,3,4,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD29,Veer,7,2022-01-01 12:00:00,7,872,Cash On Delivery,28,2,5,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD52,Swamy,5,2022-01-01 12:00:00,3,253,Cash On Delivery,21,2,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD110,Suhaib,8,2022-01-01 12:00:00,5,374,Cash On Delivery,22,5,5,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,5.0
+OD161,Fastin,6,2022-01-01 12:00:00,7,686,Credit Card,25,4,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD207,Veronica,5,2022-01-01 12:00:00,5,933,Credit Card,44,3,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Slow,2.5
+OD407,Revandh,17,2022-01-01 12:00:00,4,573,Credit Card,16,3,3,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Fast,3.0
+OD54,Sweetie,13,2022-01-01 12:00:00,7,716,Credit Card,13,4,4,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,4.0
+OD116,Srini,4,2022-01-01 12:00:00,5,485,Cash On Delivery,22,2,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.5
+OD166,Ram,18,2022-01-01 12:00:00,5,173,Cash On Delivery,41,4,4,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,4.0
+OD18,Selva,16,2022-01-01 12:00:00,1,80,Credit Card,39,5,1,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,3.0
+OD179,Suhaib,18,2022-01-01 12:00:00,4,156,Debit Card,25,5,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,4.0
+OD108,Chinny,16,2022-01-01 12:19:00,5,830,Debit Card,49,3,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,2.5
+OD124,Suhaib,1,2022-01-01 12:19:00,4,376,Cash On Delivery,46,3,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Slow,3.5
+OD119,Meera,9,2022-01-01 12:19:00,4,220,Debit Card,18,3,3,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD382,Shifa,2,2022-01-01 12:19:00,7,1155,Cash On Delivery,29,1,5,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD163,Veer,18,2022-01-01 12:19:00,7,814,Debit Card,10,3,5,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,4.0
+OD195,Ram,6,2022-01-01 12:19:00,4,233,Debit Card,12,3,1,Willies,French,Zone D,Pro,January,Saturday,Yes,Fast,2.0
+OD355,Charlie,6,2022-01-01 12:19:00,5,799,Credit Card,40,2,1,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,1.5
+OD344,Shifa,17,2022-01-01 12:19:00,5,1010,Debit Card,46,4,1,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Slow,2.5
+OD24,Dev,16,2022-01-01 12:19:00,6,575,Credit Card,41,3,4,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,3.5
+OD291,Shifa,6,2022-01-01 12:19:00,5,721,Debit Card,14,2,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Fast,2.5
+OD31,Srini,8,2022-01-01 12:19:00,4,304,Credit Card,15,5,1,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Fast,3.0
+OD288,Revandh,14,2022-01-01 12:19:00,7,944,Cash On Delivery,41,5,2,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Slow,3.5
+OD341,Rifa,12,2022-01-01 12:19:00,6,989,Credit Card,22,5,3,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD40,Gopal,17,2022-01-01 12:19:00,1,29,Credit Card,22,5,5,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,5.0
+OD448,Charlie,9,2022-01-01 12:19:00,4,425,Cash On Delivery,22,4,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD41,Vinny,14,2022-01-01 12:19:00,5,394,Debit Card,13,4,2,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Fast,3.0
+OD69,Chinny,19,2022-01-01 12:19:00,3,462,Debit Card,33,3,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,2.5
+OD259,Suhaib,7,2022-01-01 12:19:00,2,134,Credit Card,29,3,4,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD257,Rifa,4,2022-01-01 12:19:00,5,777,Debit Card,38,5,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD76,Srini,6,2022-01-01 12:19:00,7,934,Debit Card,30,2,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD16,Meera,1,2022-01-01 12:19:00,5,546,Cash On Delivery,28,5,2,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.5
+OD314,Sabeena,18,2022-01-01 12:19:00,5,1048,Cash On Delivery,15,3,2,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,2.5
+OD235,Veronica,4,2022-01-01 12:19:00,5,680,Cash On Delivery,49,2,5,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD311,Vinny,13,2022-01-01 13:30:00,5,1082,Debit Card,16,1,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,1.0
+OD144,Sweetie,20,2022-01-01 13:30:00,7,703,Cash On Delivery,49,5,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,3.5
+OD335,Dev,20,2022-01-01 13:30:00,3,709,Credit Card,19,5,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Fast,3.5
+OD293,Farhan,7,2022-01-01 13:30:00,5,628,Cash On Delivery,31,5,1,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD226,Rifa,18,2022-01-01 13:30:00,6,502,Credit Card,50,5,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,4.0
+OD241,Sabeena,4,2022-01-01 13:30:00,5,370,Debit Card,48,2,2,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,2.0
+OD494,Fastin,8,2022-01-01 13:30:00,4,557,Cash On Delivery,41,5,5,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Slow,5.0
+OD409,Sabeena,12,2022-01-01 13:30:00,5,656,Debit Card,43,1,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,2.5
+OD481,Rifa,2,2022-01-01 13:30:00,3,549,Credit Card,14,4,1,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Fast,2.5
+OD183,Revandh,14,2022-01-01 13:30:00,4,331,Credit Card,45,2,5,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Slow,3.5
+OD253,Selva,9,2022-01-01 13:30:00,4,260,Cash On Delivery,29,4,3,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD213,Ram,14,2022-01-01 13:30:00,1,36,Cash On Delivery,10,2,5,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Fast,3.5
+OD185,Ram,7,2022-01-01 13:30:00,4,200,Debit Card,16,4,2,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD42,Suhaib,12,2022-01-01 13:30:00,1,125,Cash On Delivery,28,5,1,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD71,Swamy,8,2022-01-01 13:30:00,3,412,Cash On Delivery,16,3,4,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Fast,3.5
+OD460,Charlie,2,2022-01-01 13:30:00,7,1128,Credit Card,39,5,4,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,4.5
+OD67,Charlie,9,2022-01-01 13:30:00,5,471,Cash On Delivery,39,5,5,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,5.0
+OD453,Ram,11,2022-01-01 13:30:00,3,796,Credit Card,41,5,4,The Taste,French,Zone B,Pro,January,Saturday,Yes,Slow,4.5
+OD346,Rifa,2,2022-01-01 13:30:00,4,428,Cash On Delivery,10,4,5,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Fast,4.5
+OD302,Ram,17,2022-01-01 13:30:00,5,446,Credit Card,32,3,4,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD472,Rifa,16,2022-01-01 13:31:00,5,1152,Cash On Delivery,41,4,5,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,4.5
+OD196,Rifa,8,2022-01-01 13:31:00,6,906,Debit Card,28,3,1,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,2.0
+OD175,Revandh,4,2022-01-01 13:31:00,7,965,Credit Card,15,4,2,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD156,Veer,7,2022-01-01 13:31:00,7,969,Cash On Delivery,23,3,3,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD477,Suhaib,17,2022-01-01 13:31:00,5,518,Credit Card,28,5,5,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,5.0
+OD278,Sweetie,3,2022-01-01 13:31:00,3,352,Debit Card,30,3,1,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.0
+OD497,Veronica,17,2022-01-01 13:31:00,5,541,Credit Card,27,4,3,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD142,Meera,12,2022-01-01 13:31:00,2,56,Cash On Delivery,41,2,3,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,2.5
+OD325,David,8,2022-01-01 13:31:00,7,993,Cash On Delivery,23,5,5,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,5.0
+OD414,Rifa,12,2022-01-01 13:31:00,3,532,Cash On Delivery,22,3,1,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,2.0
+OD385,Veronica,1,2022-01-01 13:31:00,5,1015,Debit Card,25,5,5,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,5.0
+OD303,Fastin,14,2022-01-01 13:39:00,3,743,Credit Card,37,2,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,3.0
+OD368,Ram,19,2022-01-01 13:39:00,5,794,Cash On Delivery,42,2,1,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,1.5
+OD187,David,12,2022-01-01 13:39:00,5,188,Debit Card,28,3,3,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD328,Veer,18,2022-01-01 13:39:00,5,750,Debit Card,43,5,5,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,5.0
+OD178,Farhan,1,2022-01-01 13:39:00,4,323,Cash On Delivery,41,2,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Slow,3.0
+OD210,Shifa,1,2022-01-01 13:39:00,5,229,Credit Card,22,4,2,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD160,Sabeena,16,2022-01-01 13:39:00,5,892,Debit Card,50,4,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,3.5
+OD362,Sabeena,19,2022-01-01 13:39:00,4,789,Credit Card,26,4,4,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,4.0
+OD364,Veer,11,2022-01-01 13:39:00,6,1160,Cash On Delivery,31,3,1,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,2.0
+OD377,Gopal,5,2022-01-01 13:39:00,5,785,Debit Card,20,2,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Fast,2.0
+OD239,Swamy,10,2022-01-01 13:39:00,2,93,Debit Card,43,2,1,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Slow,1.5
+OD297,Farhan,8,2022-01-01 13:39:00,1,65,Credit Card,23,2,4,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD158,Fastin,9,2022-01-01 13:39:00,1,134,Debit Card,27,2,2,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.0
+OD316,David,17,2022-01-01 13:39:00,3,651,Credit Card,33,2,2,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,2.0
+OD484,Sabeena,4,2022-01-01 13:39:00,6,827,Credit Card,38,2,5,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD9,David,1,2022-01-01 13:39:00,5,248,Debit Card,27,3,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.5
+OD469,Chinny,14,2022-01-01 13:39:00,5,542,Debit Card,39,5,2,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,3.5
+OD121,Srini,3,2022-01-01 13:39:00,3,359,Credit Card,46,2,4,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD33,Farhan,13,2022-01-01 13:39:00,5,873,Cash On Delivery,31,5,5,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,5.0
+OD32,Veer,14,2022-01-01 13:39:00,5,370,Cash On Delivery,35,3,5,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,4.0
+OD113,Meera,4,2022-01-01 13:39:00,6,590,Cash On Delivery,49,4,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD424,Swamy,5,2022-01-01 13:39:00,4,404,Cash On Delivery,15,5,4,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Fast,4.5
+OD461,Suhaib,5,2022-01-01 13:39:00,5,552,Cash On Delivery,45,3,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Slow,2.5
+OD44,Meera,14,2022-01-01 14:10:00,2,3,Cash On Delivery,37,4,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,4.0
+OD466,David,1,2022-01-01 14:10:00,7,894,Cash On Delivery,27,3,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.5
+OD261,Ram,19,2022-01-01 14:10:00,7,853,Cash On Delivery,39,3,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,2.5
+OD433,Charlie,7,2022-01-01 14:10:00,4,410,Debit Card,16,4,4,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.0
+OD499,Charlie,2,2022-01-01 14:10:00,5,758,Cash On Delivery,29,3,3,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD74,Dev,13,2022-01-01 14:10:00,3,471,Debit Card,36,5,2,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD61,Rifa,4,2022-01-01 14:10:00,2,114,Credit Card,21,3,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD471,Fastin,19,2022-01-01 14:10:00,5,846,Cash On Delivery,17,5,4,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Fast,4.5
+OD77,Vinny,12,2022-01-01 14:10:00,5,534,Cash On Delivery,20,5,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Fast,4.5
+OD463,Meera,13,2022-01-01 14:10:00,4,555,Debit Card,28,4,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,2.5
+OD286,Rifa,11,2022-01-01 14:10:00,5,761,Debit Card,34,2,5,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,3.5
+OD202,Veer,1,2022-01-01 14:10:00,5,937,Credit Card,11,4,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Fast,4.0
+OD205,Sabeena,12,2022-01-01 14:10:00,7,691,Debit Card,47,5,5,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,5.0
+OD228,David,15,2022-01-01 14:10:00,7,578,Debit Card,37,5,4,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.5
+OD164,Rifa,16,2022-01-01 14:10:00,6,583,Credit Card,49,5,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,3.5
+OD222,Selva,5,2022-01-01 14:10:00,4,167,Debit Card,23,3,4,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD455,Veer,4,2022-01-01 14:20:00,4,663,Debit Card,46,4,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD199,Meera,15,2022-01-01 14:20:00,7,542,Cash On Delivery,14,5,1,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD84,Srini,14,2022-01-01 14:20:00,7,704,Cash On Delivery,47,2,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Slow,3.0
+OD91,Gopal,8,2022-01-01 14:20:00,4,305,Credit Card,48,2,1,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Slow,1.5
+OD209,Meera,9,2022-01-01 14:20:00,6,976,Debit Card,49,4,3,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD106,Shifa,18,2022-01-01 14:20:00,1,133,Cash On Delivery,39,4,1,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,2.5
+OD117,Suhaib,5,2022-01-01 14:20:00,3,269,Credit Card,33,3,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.5
+OD238,Shifa,3,2022-01-01 14:20:00,2,86,Credit Card,23,3,1,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.0
+OD73,Farhan,9,2022-01-01 14:20:00,6,941,Cash On Delivery,11,5,3,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.0
+OD127,Vinny,14,2022-01-01 14:20:00,5,871,Credit Card,25,4,2,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,3.0
+OD313,Farhan,17,2022-01-01 14:20:00,4,727,Debit Card,12,5,5,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Fast,5.0
+OD492,Swamy,13,2022-01-01 14:20:00,5,1046,Cash On Delivery,43,5,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD14,Swamy,11,2022-01-01 14:20:00,5,525,Debit Card,11,4,4,The Taste,French,Zone B,Pro,January,Saturday,Yes,Fast,4.0
+OD487,Shifa,18,2022-01-01 14:20:00,6,896,Credit Card,31,5,1,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,3.0
+OD352,Dev,1,2022-01-01 14:20:00,3,596,Debit Card,22,3,5,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,4.0
+OD298,Rifa,1,2022-01-01 14:20:00,5,337,Cash On Delivery,23,3,1,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,2.0
+OD133,Veer,1,2022-01-01 14:20:00,5,426,Debit Card,26,3,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.5
+OD50,Swamy,15,2022-01-01 14:20:00,6,946,Cash On Delivery,30,4,4,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD427,Selva,17,2022-01-01 14:20:00,6,837,Credit Card,24,5,3,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,4.0
+OD128,Fastin,18,2022-01-01 14:20:00,5,232,Credit Card,46,5,2,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,3.5
+OD379,Selva,14,2022-01-01 14:20:00,3,732,Cash On Delivery,17,3,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Fast,3.5
+OD343,Srini,10,2022-01-01 14:20:00,3,520,Credit Card,10,2,1,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Fast,1.5
+OD478,Srini,4,2022-01-01 14:21:00,5,885,Cash On Delivery,25,3,4,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD25,Suhaib,3,2022-01-01 14:21:00,5,234,Debit Card,50,4,4,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,4.0
+OD329,Vinny,8,2022-01-01 14:21:00,3,543,Debit Card,43,5,4,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Slow,4.5
+OD366,Selva,9,2022-01-01 14:21:00,4,731,Cash On Delivery,44,4,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,4.0
+OD327,Sabeena,4,2022-01-01 14:21:00,7,828,Debit Card,15,1,1,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,1.0
+OD93,Charlie,2,2022-01-01 14:21:00,5,412,Credit Card,48,4,4,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Slow,4.0
+OD442,Gopal,8,2022-01-01 14:21:00,5,1044,Debit Card,43,1,2,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Slow,1.5
+OD225,Dev,7,2022-01-01 14:21:00,2,22,Debit Card,18,4,1,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,2.5
+OD440,Srini,1,2022-01-01 14:21:00,5,888,Credit Card,18,4,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Fast,4.0
+OD439,Revandh,12,2022-01-01 14:21:00,3,770,Credit Card,27,5,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,4.5
+OD250,Sabeena,6,2022-01-01 14:21:00,4,224,Cash On Delivery,22,2,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD172,Meera,20,2022-01-01 14:21:00,1,12,Debit Card,24,4,3,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,3.5
+OD432,Sweetie,20,2022-01-01 14:21:00,3,792,Debit Card,41,1,4,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,2.5
+OD434,Meera,15,2022-01-01 14:21:00,7,837,Debit Card,50,1,1,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,1.0
+OD390,Farhan,6,2022-01-01 14:21:00,6,1060,Debit Card,49,5,5,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,5.0
+OD408,Ram,20,2022-01-01 14:21:00,4,408,Cash On Delivery,40,2,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,1.5
+OD386,David,7,2022-01-01 14:21:00,6,1067,Debit Card,13,5,5,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,5.0
+OD212,Ram,4,2022-01-01 14:21:00,5,452,Debit Card,21,5,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD157,Rifa,1,2022-01-01 14:22:00,2,125,Debit Card,10,5,5,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Fast,5.0
+OD245,Srini,6,2022-01-01 14:22:00,1,143,Credit Card,20,5,5,Willies,French,Zone D,Pro,January,Saturday,Yes,Fast,5.0
+OD180,Revandh,10,2022-01-01 14:22:00,2,59,Credit Card,14,5,1,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Fast,3.0
+OD197,Swamy,18,2022-01-01 14:22:00,7,684,Credit Card,35,5,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,4.0
+OD365,David,19,2022-01-01 14:22:00,5,767,Credit Card,11,2,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Fast,2.0
+OD482,Charlie,12,2022-01-01 14:22:00,3,505,Credit Card,39,3,5,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD449,Charlie,16,2022-01-01 14:22:00,5,1198,Credit Card,39,5,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,4.0
+OD149,Veronica,2,2022-01-01 14:22:00,3,264,Cash On Delivery,44,2,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Slow,2.0
+OD6,Dev,16,2022-01-01 14:22:00,6,575,Cash On Delivery,21,5,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD319,Veer,1,2022-01-01 14:22:00,5,819,Credit Card,21,3,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.5
+OD53,Farhan,4,2022-01-01 14:22:00,6,941,Debit Card,18,2,4,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD95,Charlie,5,2022-01-01 14:22:00,6,953,Credit Card,39,3,1,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD402,Gopal,17,2022-01-01 14:22:00,6,971,Credit Card,20,2,3,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Fast,2.5
+OD369,Shifa,5,2022-01-01 14:22:00,5,1193,Debit Card,39,5,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD98,Swamy,3,2022-01-01 14:22:00,4,219,Cash On Delivery,13,2,3,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,2.5
+OD371,Sabeena,17,2022-01-01 14:22:00,5,835,Credit Card,27,4,3,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD125,Ram,16,2022-01-01 14:22:00,6,786,Cash On Delivery,37,2,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,2.0
+OD64,Farhan,15,2022-01-01 14:22:00,2,20,Credit Card,33,4,4,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD234,Revandh,7,2022-01-01 14:22:00,7,721,Debit Card,39,4,4,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD216,Selva,14,2022-01-01 14:31:00,2,21,Debit Card,50,2,1,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Slow,1.5
+OD269,Gopal,17,2022-01-01 14:31:00,5,938,Cash On Delivery,35,2,1,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,1.5
+OD428,Suhaib,1,2022-01-01 14:31:00,6,916,Credit Card,25,4,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,4.0
+OD468,Veer,4,2022-01-01 14:31:00,4,411,Credit Card,32,4,2,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD308,Swamy,13,2022-01-01 14:31:00,5,551,Cash On Delivery,32,2,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,1.5
+OD8,Sabeena,4,2022-01-01 14:31:00,4,321,Credit Card,35,2,1,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,1.5
+OD35,Charlie,7,2022-01-01 14:31:00,6,514,Debit Card,28,3,2,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.5
+OD27,David,7,2022-01-01 14:31:00,5,887,Debit Card,37,2,4,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD336,Charlie,5,2022-01-01 14:31:00,3,692,Credit Card,10,5,3,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Fast,4.0
+OD23,Meera,1,2022-01-01 14:31:00,1,28,Debit Card,29,3,2,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,2.5
+OD143,Revandh,4,2022-01-01 14:31:00,1,140,Debit Card,47,5,1,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD146,Farhan,6,2022-01-01 14:31:00,3,444,Cash On Delivery,15,3,1,Willies,French,Zone D,Pro,January,Saturday,Yes,Fast,2.0
+OD479,Suhaib,11,2022-01-01 14:31:00,5,763,Cash On Delivery,25,5,4,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,4.5
+OD282,Meera,10,2022-01-01 14:31:00,5,164,Cash On Delivery,16,2,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Fast,3.5
+OD267,Srini,3,2022-01-01 14:31:00,2,99,Cash On Delivery,12,3,3,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD112,Revandh,14,2022-01-01 14:31:00,5,580,Debit Card,18,3,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Fast,3.5
+OD111,Veer,20,2022-01-01 14:31:00,5,585,Debit Card,43,2,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,2.0
+OD203,Sweetie,17,2022-01-01 14:31:00,7,835,Debit Card,14,4,5,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Fast,4.5
+OD252,Veer,17,2022-01-01 14:31:00,5,995,Credit Card,46,4,2,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Slow,3.0
+OD438,Sweetie,4,2022-01-01 14:31:00,5,1017,Cash On Delivery,12,2,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,2.5
+OD94,Suhaib,20,2022-01-01 14:31:00,3,455,Debit Card,25,5,5,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,5.0
+OD192,Dev,12,2022-01-01 14:31:00,3,317,Debit Card,50,5,5,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,5.0
+OD255,Shifa,20,2022-01-01 14:31:00,6,965,Credit Card,30,3,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,2.0
+OD447,Chinny,9,2022-01-01 14:31:00,5,583,Cash On Delivery,15,4,2,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD258,Srini,19,2022-01-01 15:22:00,7,674,Credit Card,21,4,3,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,3.5
+OD135,Gopal,3,2022-01-01 15:22:00,4,352,Cash On Delivery,28,3,4,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD395,Ram,19,2022-01-01 15:22:00,7,1035,Credit Card,10,2,4,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Fast,3.0
+OD317,Swamy,16,2022-01-01 15:22:00,6,817,Cash On Delivery,49,2,4,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,3.0
+OD380,Rifa,18,2022-01-01 15:22:00,5,546,Debit Card,20,4,4,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,4.0
+OD115,Selva,15,2022-01-01 15:22:00,1,41,Cash On Delivery,27,5,3,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD483,Swamy,4,2022-01-01 15:22:00,5,653,Credit Card,50,1,5,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD138,Charlie,12,2022-01-01 15:22:00,3,273,Cash On Delivery,37,5,2,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,3.5
+OD485,Farhan,18,2022-01-01 15:22:00,7,1165,Debit Card,22,1,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,2.0
+OD173,Suhaib,19,2022-01-01 15:22:00,1,127,Credit Card,43,5,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,3.5
+OD376,Farhan,3,2022-01-01 15:22:00,5,657,Debit Card,35,5,3,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD48,Fastin,17,2022-01-01 15:22:00,5,439,Credit Card,42,5,3,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Slow,4.0
+OD373,Dev,10,2022-01-01 15:22:00,6,1050,Debit Card,38,4,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,4.5
+OD162,Ram,1,2022-01-01 15:22:00,5,422,Credit Card,14,5,1,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Fast,3.0
+OD272,Sweetie,4,2022-01-01 15:22:00,5,419,Cash On Delivery,39,4,5,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.5
+OD223,Srini,17,2022-01-01 15:22:00,5,669,Credit Card,26,5,1,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,3.0
+OD181,Chinny,10,2022-01-01 15:22:00,1,116,Cash On Delivery,45,4,2,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Slow,3.0
+OD375,Srini,14,2022-01-01 15:22:00,6,1011,Cash On Delivery,27,3,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,3.5
+OD132,David,12,2022-01-01 15:22:00,5,882,Debit Card,29,5,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,4.5
+OD462,Rifa,12,2022-01-01 15:22:00,5,883,Credit Card,12,1,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Fast,2.5
+OD191,Veronica,10,2022-01-01 15:22:00,5,691,Cash On Delivery,41,2,4,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Slow,3.0
+OD496,Chinny,20,2022-01-01 15:22:00,6,1184,Cash On Delivery,13,4,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Fast,3.0
+OD96,David,6,2022-01-01 15:22:00,4,300,Cash On Delivery,27,2,2,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD326,Gopal,1,2022-01-01 17:39:00,4,508,Cash On Delivery,23,3,3,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD148,Swamy,20,2022-01-01 17:39:00,3,347,Cash On Delivery,35,2,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,2.0
+OD321,Charlie,4,2022-01-01 17:39:00,3,418,Debit Card,46,1,5,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD219,Meera,12,2022-01-01 17:39:00,3,345,Cash On Delivery,20,2,1,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Fast,1.5
+OD324,Revandh,20,2022-01-01 17:39:00,6,849,Debit Card,23,5,3,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD22,Suhaib,1,2022-01-01 17:39:00,7,630,Cash On Delivery,37,3,3,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD387,Veer,11,2022-01-01 17:39:00,5,571,Debit Card,16,3,1,The Taste,French,Zone B,Pro,January,Saturday,Yes,Fast,2.0
+OD426,Farhan,9,2022-01-01 17:39:00,3,466,Credit Card,39,1,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.5
+OD465,Meera,11,2022-01-01 17:39:00,4,461,Credit Card,50,2,3,The Taste,French,Zone B,Pro,January,Saturday,Yes,Slow,2.5
+OD467,Veer,8,2022-01-01 17:39:00,6,1196,Debit Card,48,2,2,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Slow,2.0
+OD392,Srini,20,2022-01-01 17:39:00,6,885,Cash On Delivery,23,1,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,1.0
+OD359,Ram,5,2022-01-01 17:39:00,6,947,Debit Card,20,2,4,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Fast,3.0
+OD81,Veer,3,2022-01-01 17:39:00,5,436,Debit Card,19,5,4,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.5
+OD273,Srini,9,2022-01-01 17:39:00,4,334,Cash On Delivery,14,3,1,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,2.0
+OD200,Vinny,2,2022-01-01 17:39:00,5,630,Cash On Delivery,43,5,4,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Slow,4.5
+OD208,Fastin,16,2022-01-01 17:39:00,7,607,Credit Card,49,3,1,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,2.0
+OD237,Shifa,16,2022-01-01 17:39:00,3,412,Credit Card,39,4,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD88,Veronica,18,2022-01-01 17:39:00,1,94,Debit Card,20,2,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,2.5
+OD283,Veronica,18,2022-01-01 17:39:00,4,293,Cash On Delivery,34,4,2,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,3.0
+OD26,Suhaib,4,2022-01-01 17:39:00,4,262,Credit Card,31,5,4,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.5
+OD489,Ram,18,2022-01-01 18:01:00,5,547,Debit Card,45,1,1,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,1.0
+OD337,Gopal,10,2022-01-01 18:01:00,3,789,Cash On Delivery,41,5,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Slow,5.0
+OD486,Vinny,7,2022-01-01 18:01:00,5,1021,Debit Card,33,2,5,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD420,Srini,20,2022-01-01 18:01:00,5,963,Debit Card,37,5,5,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,5.0
+OD393,David,15,2022-01-01 18:01:00,4,450,Debit Card,15,2,4,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD403,Vinny,19,2022-01-01 18:01:00,7,975,Debit Card,43,2,1,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,1.5
+OD500,Sabeena,7,2022-01-01 18:01:00,3,659,Cash On Delivery,11,4,5,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.5
+OD37,Revandh,10,2022-01-01 18:01:00,4,474,Cash On Delivery,19,2,4,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Fast,3.0
+OD46,Swamy,9,2022-01-01 18:01:00,7,744,Credit Card,45,3,2,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD165,Veer,2,2022-01-01 18:01:00,5,721,Credit Card,48,2,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Slow,2.0
+OD251,Revandh,18,2022-01-01 18:01:00,3,478,Credit Card,48,3,5,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,4.0
+OD57,Fastin,12,2022-01-01 18:01:00,2,6,Credit Card,36,4,3,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,3.5
+OD34,Selva,20,2022-01-01 18:01:00,6,645,Credit Card,46,2,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,1.5
+OD66,David,3,2022-01-01 18:01:00,2,120,Cash On Delivery,31,3,5,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD274,Selva,5,2022-01-01 18:01:00,6,767,Credit Card,29,3,4,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD188,Ram,17,2022-01-01 18:01:00,1,93,Credit Card,30,3,4,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD211,Farhan,3,2022-01-01 18:01:00,6,941,Cash On Delivery,13,4,5,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.5
+OD87,Dev,12,2022-01-01 18:01:00,4,196,Debit Card,50,2,2,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,2.0
+OD391,Srini,19,2022-01-01 19:21:00,5,534,Credit Card,49,1,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,1.5
+OD217,Dev,5,2022-01-01 19:21:00,6,591,Debit Card,37,5,5,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,5.0
+OD493,Swamy,9,2022-01-01 19:21:00,5,875,Credit Card,33,3,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD256,Veer,8,2022-01-01 19:21:00,3,256,Debit Card,44,4,1,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Slow,2.5
+OD215,Chinny,20,2022-01-01 19:21:00,1,138,Debit Card,26,4,4,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD45,Veer,18,2022-01-01 19:21:00,4,478,Debit Card,15,2,2,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,2.0
+OD169,Farhan,17,2022-01-01 19:21:00,6,724,Credit Card,45,5,2,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Slow,3.5
+OD10,Rifa,12,2022-01-01 19:21:00,3,295,Cash On Delivery,49,2,1,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,1.5
+OD398,Sweetie,16,2022-01-01 19:21:00,5,614,Cash On Delivery,32,3,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,3.0
+OD151,Chinny,20,2022-01-01 19:21:00,1,86,Cash On Delivery,23,2,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,2.0
+OD361,Rifa,6,2022-01-01 19:21:00,5,841,Debit Card,50,1,1,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,1.0
+OD247,Chinny,14,2022-01-01 19:21:00,4,377,Credit Card,50,4,1,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Slow,2.5
+OD233,Fastin,7,2022-01-01 19:21:00,6,945,Credit Card,36,4,1,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.5
+OD80,Sabeena,16,2022-01-01 19:21:00,1,50,Cash On Delivery,27,3,5,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,4.0
+OD374,Dev,15,2022-01-01 19:21:00,5,527,Cash On Delivery,49,5,1,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD51,Sabeena,18,2022-01-01 19:21:00,1,27,Credit Card,39,3,4,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,3.5
+OD312,Ram,1,2022-01-01 19:21:00,7,872,Cash On Delivery,43,2,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Slow,3.0
+OD310,Gopal,2,2022-01-01 19:21:00,7,878,Debit Card,47,2,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Slow,2.0
+OD79,Swamy,16,2022-01-01 19:21:00,6,698,Credit Card,21,3,4,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD457,Vinny,6,2022-01-01 19:21:00,3,520,Debit Card,38,4,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,4.0
+OD299,Veer,12,2022-01-01 19:21:00,6,606,Cash On Delivery,25,2,3,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,2.5
+OD2,Revandh,13,2022-01-01 19:21:00,5,258,Credit Card,41,3,5,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,4.0
+OD295,Meera,18,2022-01-01 19:21:00,5,372,Debit Card,40,4,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,3.5
+OD136,Chinny,19,2022-01-01 19:21:00,5,226,Debit Card,39,2,3,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,2.5
+OD446,Ram,14,2022-01-01 19:21:00,3,634,Credit Card,11,4,1,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Fast,2.5
+OD332,David,3,2022-01-01 19:21:00,4,736,Credit Card,50,4,1,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD470,Vinny,20,2022-01-01 19:21:00,4,476,Credit Card,37,5,3,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD97,Dev,7,2022-01-01 19:21:00,2,11,Cash On Delivery,21,5,1,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD289,Revandh,11,2022-01-01 19:21:00,7,806,Cash On Delivery,23,5,5,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,5.0
+OD130,Veer,15,2022-01-01 19:21:00,4,179,Credit Card,47,4,3,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD294,David,13,2022-01-01 19:21:00,2,100,Cash On Delivery,46,3,4,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD404,Dev,6,2022-01-01 20:31:00,3,783,Debit Card,19,4,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Fast,4.0
+OD473,Veer,13,2022-01-01 20:31:00,4,697,Credit Card,50,1,5,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,3.0
+OD378,Sweetie,18,2022-01-01 20:31:00,5,439,Cash On Delivery,17,1,4,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,2.5
+OD218,Gopal,14,2022-01-01 20:31:00,4,452,Debit Card,32,2,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,3.0
+OD141,Rifa,3,2022-01-01 20:31:00,7,964,Debit Card,27,3,2,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,2.5
+OD28,Farhan,8,2022-01-01 20:31:00,7,586,Debit Card,39,4,4,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD86,Farhan,10,2022-01-01 20:31:00,5,602,Debit Card,12,4,3,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Fast,3.5
+OD459,Sabeena,18,2022-01-01 20:31:00,5,548,Cash On Delivery,36,5,4,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,4.5
+OD92,Swamy,8,2022-01-01 20:31:00,6,891,Debit Card,25,5,5,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,5.0
+OD429,Shifa,1,2022-01-01 20:31:00,7,815,Cash On Delivery,40,4,1,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,2.5
+OD430,Selva,12,2022-01-01 20:31:00,3,570,Debit Card,37,5,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,4.5
+OD122,Chinny,1,2022-01-01 20:31:00,4,254,Credit Card,36,4,5,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,4.5
+OD120,Revandh,9,2022-01-01 20:31:00,5,478,Debit Card,19,2,2,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,2.0
+OD384,Chinny,15,2022-01-01 20:31:00,6,1062,Debit Card,15,5,2,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.5
+OD418,Ram,1,2022-01-01 20:31:00,3,711,Credit Card,22,3,3,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD155,Farhan,20,2022-01-01 20:31:00,6,672,Cash On Delivery,46,4,3,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,3.5
+OD270,Farhan,8,2022-01-01 20:31:00,7,857,Cash On Delivery,13,2,2,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Fast,2.0
+OD345,Suhaib,9,2022-01-01 20:31:00,3,478,Credit Card,39,4,3,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD360,Sabeena,10,2022-01-01 20:31:00,4,777,Debit Card,13,3,1,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Fast,2.0
+OD287,Ram,16,2022-01-01 20:31:00,6,567,Cash On Delivery,40,5,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,3.5
+OD4,Selva,4,2022-01-01 20:31:00,5,868,Cash On Delivery,30,3,4,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD244,Gopal,13,2022-01-01 20:31:00,5,366,Credit Card,21,4,5,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,4.5
+OD240,Charlie,6,2022-01-01 20:31:00,5,568,Credit Card,48,3,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,3.0
+OD254,Vinny,6,2022-01-01 20:31:00,7,815,Credit Card,24,4,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD323,Vinny,13,2022-01-01 20:31:00,6,926,Debit Card,47,2,2,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,2.0
+OD232,Veronica,19,2022-01-01 20:31:00,5,920,Credit Card,17,5,1,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Fast,3.0
+OD300,Ram,3,2022-01-01 20:35:00,6,713,Cash On Delivery,25,5,2,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD417,Dev,18,2022-01-01 20:35:00,4,514,Debit Card,26,4,1,Ellora,African,Zone C,Pro,January,Saturday,Yes,Normal,2.5
+OD75,Ram,7,2022-01-01 20:35:00,5,942,Cash On Delivery,41,5,5,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,5.0
+OD7,Meera,7,2022-01-01 20:35:00,2,102,Credit Card,41,4,3,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD464,Revandh,1,2022-01-01 20:35:00,6,859,Debit Card,15,3,5,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Fast,4.0
+OD131,Selva,17,2022-01-01 20:35:00,5,359,Cash On Delivery,37,2,1,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,1.5
+OD452,Fastin,5,2022-01-01 20:35:00,5,797,Credit Card,17,3,1,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Fast,2.0
+OD431,Sweetie,20,2022-01-01 20:35:00,4,648,Cash On Delivery,46,3,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,2.0
+OD292,Srini,15,2022-01-01 20:35:00,7,636,Cash On Delivery,29,5,1,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.0
+OD266,Ram,16,2022-01-01 20:35:00,6,804,Cash On Delivery,25,3,5,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,4.0
+OD441,Farhan,20,2022-01-01 20:35:00,5,1102,Debit Card,31,4,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD102,Farhan,14,2022-01-01 20:35:00,2,78,Debit Card,32,5,1,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,3.0
+OD65,Sweetie,7,2022-01-01 20:35:00,2,124,Credit Card,19,4,4,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.0
+OD90,Shifa,13,2022-01-01 20:35:00,5,710,Credit Card,45,4,3,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD436,Dev,17,2022-01-01 20:35:00,5,565,Cash On Delivery,15,1,5,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Fast,3.0
+OD389,Srini,15,2022-01-01 20:35:00,4,460,Cash On Delivery,31,4,5,Vrinda Bhavan,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.5
+OD186,Gopal,3,2022-01-01 20:35:00,7,588,Debit Card,49,2,1,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,1.5
+OD184,Revandh,8,2022-01-01 20:35:00,5,679,Cash On Delivery,17,4,2,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Fast,3.0
+OD243,Rifa,3,2022-01-01 20:35:00,5,624,Debit Card,39,3,5,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD358,Suhaib,8,2022-01-01 20:35:00,4,711,Credit Card,23,5,3,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD242,Srini,14,2022-01-01 20:35:00,7,756,Credit Card,36,4,4,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,4.0
+OD13,Suhaib,5,2022-01-01 20:35:00,6,813,Debit Card,44,5,1,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Slow,3.0
+OD229,Srini,8,2022-01-01 20:35:00,6,629,Cash On Delivery,18,2,1,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Fast,1.5
+OD305,Revandh,2,2022-01-01 21:31:00,3,618,Cash On Delivery,23,4,4,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,4.0
+OD330,David,13,2022-01-01 21:31:00,6,1091,Cash On Delivery,10,2,2,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,2.0
+OD190,Revandh,11,2022-01-01 21:31:00,6,729,Cash On Delivery,34,4,2,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD103,Srini,19,2022-01-01 21:31:00,7,723,Debit Card,25,4,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,3.0
+OD109,Meera,18,2022-01-01 21:31:00,6,886,Debit Card,18,5,5,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,5.0
+OD435,Veronica,20,2022-01-01 21:31:00,5,542,Credit Card,49,1,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,1.5
+OD334,Dev,5,2022-01-01 21:31:00,5,729,Debit Card,11,1,4,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Fast,2.5
+OD498,Chinny,10,2022-01-01 21:31:00,6,1049,Cash On Delivery,27,3,4,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,3.5
+OD307,Rifa,2,2022-01-01 21:31:00,6,973,Cash On Delivery,47,4,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Slow,3.0
+OD421,Swamy,11,2022-01-01 21:31:00,4,751,Debit Card,30,3,3,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD356,Veer,2,2022-01-01 21:31:00,6,856,Debit Card,29,5,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,3.5
+OD15,Sweetie,12,2022-01-01 21:31:00,7,872,Credit Card,44,5,2,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,3.5
+OD168,Sweetie,9,2022-01-01 21:31:00,4,318,Debit Card,21,2,1,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,1.5
+OD405,Revandh,20,2022-01-01 21:31:00,6,1069,Credit Card,30,2,2,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,2.0
+OD406,Charlie,5,2022-01-01 21:31:00,5,946,Debit Card,37,2,1,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,1.5
+OD354,Shifa,14,2022-01-01 21:39:00,4,501,Cash On Delivery,39,4,1,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Normal,2.5
+OD20,Swamy,10,2022-01-01 21:39:00,5,464,Cash On Delivery,24,5,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,5.0
+OD331,Suhaib,11,2022-01-01 21:39:00,5,1091,Debit Card,50,1,5,The Taste,French,Zone B,Pro,January,Saturday,Yes,Slow,3.0
+OD62,Swamy,1,2022-01-01 21:39:00,4,279,Credit Card,18,4,3,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Fast,3.5
+OD315,Chinny,12,2022-01-01 21:39:00,3,634,Debit Card,44,3,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,3.5
+OD349,David,16,2022-01-01 21:39:00,3,546,Credit Card,29,1,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,2.0
+OD104,Selva,20,2022-01-01 21:39:00,5,207,Debit Card,22,2,4,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD105,Vinny,1,2022-01-01 21:39:00,4,411,Cash On Delivery,26,5,4,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,4.5
+OD412,Suhaib,19,2022-01-01 21:39:00,5,1115,Debit Card,22,4,3,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,3.5
+OD49,Meera,12,2022-01-01 21:39:00,4,356,Debit Card,50,4,1,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Slow,2.5
+OD154,Vinny,20,2022-01-01 21:39:00,7,772,Credit Card,49,5,1,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Slow,3.0
+OD422,Chinny,6,2022-01-01 21:39:00,3,580,Credit Card,35,4,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,4.0
+OD401,Dev,8,2022-01-01 21:39:00,4,694,Cash On Delivery,38,2,1,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,1.5
+OD480,Selva,11,2022-01-01 21:39:00,7,827,Credit Card,47,3,4,The Taste,French,Zone B,Pro,January,Saturday,Yes,Slow,3.5
+OD339,Srini,17,2022-01-01 21:39:00,3,590,Debit Card,31,1,3,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,2.0
+OD177,Vinny,5,2022-01-01 21:39:00,4,315,Debit Card,26,3,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.5
+OD476,Meera,5,2022-01-01 22:01:00,5,1031,Credit Card,25,3,1,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD275,Swamy,20,2022-01-01 22:01:00,2,125,Cash On Delivery,30,2,4,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD230,Swamy,18,2022-01-01 22:01:00,5,223,Cash On Delivery,44,4,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,3.5
+OD353,Veronica,9,2022-01-01 22:01:00,3,639,Credit Card,16,5,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,4.5
+OD231,Revandh,19,2022-01-01 22:01:00,2,133,Cash On Delivery,23,4,4,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,4.0
+OD206,Meera,18,2022-01-01 22:01:00,5,656,Credit Card,11,5,5,Ellora,African,Zone C,Pro,January,Saturday,Yes,Fast,5.0
+OD304,Gopal,3,2022-01-01 22:01:00,7,853,Cash On Delivery,40,4,4,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,4.0
+OD171,Ram,19,2022-01-01 22:01:00,4,353,Cash On Delivery,44,3,3,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,3.0
+OD194,Dev,9,2022-01-01 22:01:00,7,866,Cash On Delivery,41,4,3,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD55,Gopal,20,2022-01-01 22:01:00,1,79,Cash On Delivery,28,5,3,Chew Restaurant,Belgian,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD176,Suhaib,2,2022-01-01 22:01:00,1,40,Credit Card,28,2,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD333,Chinny,19,2022-01-01 22:01:00,5,1081,Debit Card,29,2,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,2.0
+OD388,Shifa,13,2022-01-01 22:01:00,5,439,Debit Card,12,5,1,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD263,Revandh,11,2022-01-01 22:01:00,2,124,Debit Card,30,2,1,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,1.5
+OD140,Srini,10,2022-01-01 22:01:00,3,489,Debit Card,28,3,4,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,3.5
+OD491,Meera,14,2022-01-01 23:15:00,4,405,Debit Card,46,4,5,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Slow,4.5
+OD56,Rifa,12,2022-01-01 23:15:00,4,254,Cash On Delivery,32,2,4,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD474,Veronica,3,2022-01-01 23:15:00,5,1119,Debit Card,50,5,5,Asr Restaurant,South Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,5.0
+OD3,David,9,2022-01-01 23:15:00,7,594,Cash On Delivery,30,3,4,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD38,Chinny,13,2022-01-01 23:15:00,7,999,Credit Card,32,2,5,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD17,Shifa,19,2022-01-01 23:15:00,7,757,Cash On Delivery,27,3,5,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,4.0
+OD1,Srini,6,2022-01-01 23:15:00,5,633,Debit Card,47,5,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,4.0
+OD458,Sabeena,10,2022-01-01 23:15:00,5,455,Debit Card,48,4,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Slow,4.5
+OD396,David,17,2022-01-01 23:15:00,5,1178,Credit Card,25,4,2,Zam Zam,Arabian,Zone C,Ordinary,January,Saturday,Yes,Normal,3.0
+OD397,Selva,16,2022-01-01 23:15:00,6,895,Cash On Delivery,18,1,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Fast,1.5
+OD221,Farhan,16,2022-01-01 23:15:00,5,844,Credit Card,15,5,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Fast,3.5
+OD399,Dev,10,2022-01-01 23:15:00,4,434,Credit Card,12,5,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Fast,5.0
+OD167,Sabeena,2,2022-01-01 23:15:00,4,379,Credit Card,12,2,3,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Fast,2.5
+OD174,Fastin,19,2022-01-01 23:15:00,1,102,Debit Card,48,4,2,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,3.0
+OD425,Sweetie,4,2022-01-01 23:15:00,5,546,Cash On Delivery,11,3,3,Win Hotel,South Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD260,Veer,5,2022-01-01 23:15:00,5,775,Cash On Delivery,33,3,1,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD139,Rifa,12,2022-01-01 23:15:00,2,78,Credit Card,12,4,5,Ruchi,Chinese,Zone B,Ordinary,January,Saturday,Yes,Fast,4.5
+OD338,Gopal,2,2022-01-01 23:15:00,4,539,Cash On Delivery,27,4,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD445,Charlie,18,2022-01-01 23:15:00,7,1111,Debit Card,42,5,3,Ellora,African,Zone C,Pro,January,Saturday,Yes,Slow,4.0
+OD99,Vinny,10,2022-01-01 23:15:00,6,771,Debit Card,21,2,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,3.5
+OD290,Selva,14,2022-01-01 23:15:00,6,722,Debit Card,20,2,1,Ksr Hotel,Chinese,Zone A,Pro,January,Saturday,Yes,Fast,1.5
+OD118,Fastin,13,2022-01-01 23:15:00,4,391,Credit Card,20,2,3,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,2.5
+OD198,Veer,8,2022-01-01 23:15:00,3,470,Credit Card,39,4,4,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,4.0
+OD281,Rifa,5,2022-01-01 23:58:00,6,802,Cash On Delivery,22,2,2,Denver Restaurant,Continental,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD357,Shifa,19,2022-01-01 23:58:00,7,865,Credit Card,32,4,5,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Normal,4.5
+OD249,David,7,2022-01-01 23:58:00,1,37,Credit Card,50,3,4,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,3.5
+OD11,Dev,10,2022-01-01 23:58:00,6,607,Cash On Delivery,35,5,5,Dave Hotel,South Indian,Zone A,Ordinary,January,Saturday,Yes,Normal,5.0
+OD372,Charlie,1,2022-01-01 23:58:00,7,913,Cash On Delivery,13,4,2,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Fast,3.0
+OD224,Srini,6,2022-01-01 23:58:00,7,633,Credit Card,49,4,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,4.0
+OD296,Rifa,13,2022-01-01 23:58:00,7,660,Debit Card,11,2,4,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Fast,3.0
+OD306,Srini,7,2022-01-01 23:58:00,3,639,Credit Card,49,2,3,Amn,North Indian,Zone D,Ordinary,January,Saturday,Yes,Slow,2.5
+OD39,Meera,8,2022-01-01 23:58:00,5,324,Debit Card,36,3,3,Oslo,French,Zone B,Ordinary,January,Saturday,Yes,Normal,3.0
+OD83,Shifa,2,2022-01-01 23:58:00,2,50,Debit Card,33,2,2,Ssk Hotel,North Indian,Zone D,Pro,January,Saturday,Yes,Normal,2.0
+OD410,Revandh,16,2022-01-01 23:58:00,5,470,Credit Card,10,2,2,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Fast,2.0
+OD47,Veronica,19,2022-01-01 23:58:00,7,865,Credit Card,43,5,5,Sam Hotel,Belgian,Zone A,Ordinary,January,Saturday,Yes,Slow,5.0
+OD153,Rifa,16,2022-01-01 23:58:00,7,719,Credit Card,21,3,5,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Normal,4.0
+OD152,Ram,9,2022-01-01 23:58:00,1,45,Debit Card,13,4,1,Excel Restaurant,North Indian,Zone D,Ordinary,January,Saturday,Yes,Fast,2.5
+OD419,Suhaib,11,2022-01-01 23:58:00,4,733,Cash On Delivery,12,3,5,The Taste,French,Zone B,Pro,January,Saturday,Yes,Fast,4.0
+OD134,Vinny,6,2022-01-01 23:58:00,7,568,Cash On Delivery,43,5,3,Willies,French,Zone D,Pro,January,Saturday,Yes,Slow,4.0
+OD101,Srini,6,2022-01-01 23:58:00,5,341,Credit Card,40,2,4,Willies,French,Zone D,Pro,January,Saturday,Yes,Normal,3.0
+OD444,Farhan,1,2022-01-01 23:58:00,5,482,Cash On Delivery,26,4,5,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,4.5
+OD450,Dev,13,2022-01-01 23:58:00,7,882,Cash On Delivery,25,3,4,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,3.5
+OD85,Ram,13,2022-01-01 23:58:00,5,603,Debit Card,28,5,4,Veer Restaurant,Chinese,Zone D,Ordinary,January,Saturday,Yes,Normal,4.5
+OD456,Gopal,11,2022-01-01 23:58:00,3,699,Debit Card,33,2,3,The Taste,French,Zone B,Pro,January,Saturday,Yes,Normal,2.5
+OD204,Veer,1,2022-01-01 23:58:00,5,977,Debit Card,30,3,3,The Cave Hotel,Continental,Zone B,Pro,January,Saturday,Yes,Normal,3.0
+OD318,Meera,16,2022-01-01 23:58:00,4,782,Credit Card,48,1,3,Anand Restaurant,African,Zone C,Ordinary,January,Saturday,Yes,Slow,2.0

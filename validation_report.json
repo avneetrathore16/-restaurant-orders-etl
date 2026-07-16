@@ -1,0 +1,9 @@
+{
+  "source_orders": 500,
+  "source_restaurants": 20,
+  "curated_orders": 500,
+  "rejected_orders": 0,
+  "unmatched_restaurants": 0,
+  "duplicate_order_ids": 0,
+  "missing_values_after_cleaning": 0
+}
